@@ -1,0 +1,13 @@
+{
+    "sites" : {
+        "bovada" : {
+            "url" : "https://www.bovada.lv/sports/tennis"
+        },
+        "bookmaker" : {
+            "url" : "https://www.bookmaker.eu/live-lines/tennis"
+        },
+        "betonline" : {
+            "url" : "https://beta.betonline.ag/sportsbook"
+        }
+    }
+}
