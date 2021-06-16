@@ -59,6 +59,8 @@ def convert_american_to_decimal(american_odd):
         if american_odd[0] == '+':
             decimal_odd = (1 + (int(american_odd[1:]) / 100))
             return decimal_odd
+        if american_odd == 'EVEN':
+            return 2
         else:
             return None
     else:
